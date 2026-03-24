@@ -1,0 +1,14 @@
+# Environment secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and build outputs
+**/node_modules
+**/dist
+
+# Local SQLite and caches
+backend/data
+
+# OS/editor noise
+.DS_Store
